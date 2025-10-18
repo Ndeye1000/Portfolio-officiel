@@ -1,6 +1,6 @@
 body {
     background-color: #E0DFDB;
-    padding-top: 50px;
+    padding-top: 30px;
     padding-bottom: 50px;
 }
 
@@ -20,20 +20,28 @@ body {
 }
 
 img {
-    width: 250px;
+    width: 300px;
     margin-right: 20px;
 }
 
 
 .photo {
     background-color: #347879;
-    width: 250px;
-    height: 250px;
+    width: 300px;
+    height: 300px;
     clip-path: circle(40% at 50% 50%);
+    margin-top: 70px;
+    margin-left: 20px;
 }
 
 p {
     text-align: justify;
+    line-height: 1.5;
+    font-size: larger;
+}
+
+h1 {
+    font-size: 40px;
 }
 
 .presentation {
@@ -47,14 +55,19 @@ p {
     }
 
     img {
-        width: 250px;
+        width: 350px;
         margin-right: 20px;
     }
 
     .photo {
         background-color: #347879;
-        width: 250px;
-        height: 250px;
+        width: 350px;
+        height: 350px;
         clip-path: circle(40% at 50% 50%);
+        margin-top: 100px;
+    }
+
+    .presentation {
+        margin-top: 90px;
     }
 }

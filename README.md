@@ -1,18 +1,16 @@
-# Bienvenue sur mon portfolio officiel. ✨
+# Portfolio — Ndeye Sermy
 
-## Collaboration Homme - Machine
+Site portfolio statique construit avec HTML et CSS.
 
-Nous sommes à l'ère de l'IA, ce qui fait que nous n'avons pas besoin de remplir 2 fonctions en même temps. J'utilise l'IA pour faire le design pendant que moi je focus sur la logique de mes programmes !
+## Fichiers importants
+- [index.html](index.html) — page principale du portfolio.  
+- [style.css](style.css) — styles globaux et définitions des classes : [`.conteneur`](style.css), [`.me`](style.css), [`.nom`](style.css), [`.photo`](style.css), et `img` (voir [style.css](style.css)).  
+- [.vscode/settings.json](.vscode/settings.json) — configuration Live Server (port 5501).  
+- [photos/](photos/) — dossier d'images du portfolio, par ex. [photos/20250331_220250-removebg-preview.png](photos/20250331_220250-removebg-preview.png).  
+- [README.md](README.md) — ce fichier.
 
-Je rêve de devenir l'une des meilleur dev fullstack du Sénégal.
+## Description
+Page simple et responsive présentant le profil, les compétences et les coordonnées. Le fichier principal est [index.html](index.html) et le rendu visuel est géré par [style.css](style.css).
 
-## Technologies comprises 
-- Python & Flask
-- HTML/CSS  
-- JavaScript (en cours)
-- Git/GitHub
-
-## Mes projets
-- [Simulateur de Café ☕](https://samy1087.github.io/Simulateur-Cafe/)
-- [Simulateur de Smoothie 🥤](https://samy1087.github.io/Simulateur-Smoothie/)
-- Plus à venir...
+## Démarrage local
+1. Ouvrir [index.html](index.html) directement dans le navigateur

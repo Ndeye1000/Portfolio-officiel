@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 body {
@@ -71,15 +72,6 @@ a:hover
 }
 .presentation {
     margin-right: 20px;
-}
-
-.contact, .softwares, .core-skills {
-    width: 100%;
-    background-color: white;
-}
-
-section {
-    padding: 250px 50px 250px 219px;
 }
 
 @media (max-width: 758px) {
